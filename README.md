@@ -2,7 +2,7 @@
 <html>
 <head> 
 <meta charset="utf-8"> 
-<title>MuSR(runoob.com)</title> 
+<title>MuSR</title> 
 </head>
 <body>
 
