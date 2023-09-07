@@ -84,18 +84,7 @@
 
 
 	<body>
- 		<br>
-		<section>
-			<div class="container">
-				<div class="row">
-					<div class="col-12 text-center">
-						<h3>Demo</h3>
-						<hr style="margin-top:0px">
-						<br>
-					</div>
-				</div>
-			</div> 
-		</section>
+
   		<section>
 			<div class="container">
 				<div class="row">
