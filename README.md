@@ -93,16 +93,16 @@
 				</div>
 				<div class="row">
 					<div class="col text-center">
-						<img class="img-fluid" src="images/5-12/5-12_1.png" width="100%">
+						<img class="img-fluid" src="images/5-12/5-12_1.png" alt="(a)GT/real scene" width="100%">
 					</div>
 					<div class="col text-center">
-						<img class="img-fluid" src="images/5-12/5-12_2.png" width="100%">
+						<img class="img-fluid" src="images/5-12/5-12_2.png" alt="(b)NeuralRecon" width="100%">
 					</div>
 					<div class="col text-center">
-						<img class="img-fluid" src="images/5-12/5-12_3.png" width="100%">
+						<img class="img-fluid" src="images/5-12/5-12_3.png" alt="(c)Ours" width="100%">
 					</div>
 				</div>
 			</div>
-		<section>
+		</section>
 	</body>
 </html>
