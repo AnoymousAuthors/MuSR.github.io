@@ -87,11 +87,14 @@
  		<!-- Qualitative results for reconstruction efficiency on a real-world sceneg -->
    		<br>
 		<section> 			
-  			<div class="container"> 				
+  			<div class="container"> 
+     				<div class="row"> 				
+	 				<div class="col-12 text-center"> 					
+      						<h3>Qualitative results for reconstruction efficiency on a real-world sceneg</h3> 									<hr style="margin-top:0px"> 					
+	    					<br> 																		</div> 																		</div>
      				<div class="row"> 					
 	 				<div class="col-12 text-center"> 						
-      						<h3>Scene 1</h3>       																	<hr style="margin-top:0px"> 						
-	    					<br> 					
+      						<h3>Scene 1</h3>       											
 	  				</div> 				
        				</div> 				
 		   		<div class="row"> 					
@@ -108,7 +111,7 @@
 	      			<br>
 		  		<br>
 	
-	    			 <div class="row"> 					 	 												<div class="col-12 text-center"> 						       										<h3>Scene 2</h3>       																	<hr style="margin-top:0px"> 						 	    									<br> 					 	  												</div> 				        													</div> 	
+	    			 <div class="row"> 					 	 												<div class="col-12 text-center"> 						       										<h3>Scene 2</h3> 					 	  										</div> 				        													</div> 	
 	      			<div class="row">
 		  			<div class="col text-center"> 																	<img class="img-fluid" src="images/5-9/5-9_3.png" width="100%"> 					 		  			</div>
 	       				<div class="col text-center"> 																	<img class="img-fluid" src="images/5-9/5-9_4.png.png" width="100%"> 										</div>							 								 	       		</div>  
@@ -124,6 +127,13 @@
       		<br>
 		<section>
   			<div class="container"> 
+     				<div class="row">
+	 				<div class="col-12 text-center"> 					       						
+  						<h3>GPU memory statistics</h3> 					
+  						<hr style="margin-top:0px"> 					 	    					
+  						<br> 	
+  					</div>
+  				</div>
 				<div class="row">
 					<div class="col text-center">
 						<img class="img-fluid" src="images/GPU/5-8_1.png" width="100%">
@@ -149,6 +159,9 @@
 
       		<section>
 			<div class="container">
+   				<div class="row"> 	 			
+       					<div class="col-12 text-center"> 					       						   							<h3>GPU memory statistics</h3> 					   													<hr style="margin-top:0px"> 					 	    					   							<br> 	   																			</div>
+	    			</div>
 				<div class="row">
 					<div class="col text-center">
 						<img class="img-fluid" src="images/time/5-10_1.png" width="100%">
