@@ -90,7 +90,7 @@
   			<div class="container"> 
      				<div class="row"> 				
 	 				<div class="col-12 text-center"> 					
-      						<h3>Qualitative results for reconstruction efficiency on a real-world scene</h3> 											<hr style="margin-top:0px"> 					
+      						<h2>Qualitative results for reconstruction efficiency on a real-world scene</h2> 											<hr style="margin-top:0px"> 					
 	    					<br> 																				</div> 																				</div>
      				<div class="row"> 					
 	 				<div class="col-12 text-center"> 						
@@ -109,7 +109,6 @@
 		 			<div class="col text-center">											 								<p class="text-justify; text-center"> (b) MuSR </p>								 						</div>																				</div>	
 
 	      			<br>
-		  		<br>
 	
 	    			 <div class="row"> 					 	 														<div class="col-12 text-center"> 						       												<h3>Scene 2</h3> 					 	  												</div> 				        															</div> 	
 	      			<div class="row">
@@ -122,6 +121,7 @@
       			</div> 		
 		</section>   		
   		<br>
+    		<br>
 
     		<!-- GPU memory statistics -->    				
       		<br>
@@ -129,7 +129,7 @@
   			<div class="container"> 
      				<div class="row">
 	 				<div class="col-12 text-center"> 					       						
-  						<h3>GPU memory statistics</h3> 					
+  						<h2>GPU memory statistics</h2> 					
   						<hr style="margin-top:0px"> 					 	    					
   						<br> 	
   					</div>
@@ -153,6 +153,7 @@
     			</div>
 		</section>
   		<br>
+    		<br>
 
         	<!-- Time statistics -->
 	 	<br>
@@ -160,7 +161,7 @@
       		<section>
 			<div class="container">
    				<div class="row"> 	 			
-       					<div class="col-12 text-center"> 					       						   							<h3>GPU memory statistics</h3> 					   													<hr style="margin-top:0px"> 					 	    					   							<br> 	   																			</div>
+       					<div class="col-12 text-center"> 					       						   							<h2>GPU memory statistics</h2> 					   													<hr style="margin-top:0px"> 					 	    					   							<br> 	   																			</div>
 	    			</div>
 				<div class="row">
 					<div class="col text-center">
@@ -180,12 +181,15 @@
 				</div>
 			</div>
 		</section>
+
+  		<br>
+    		<br>
     
   		<section>
 			<div class="container">
 				<div class="row">
 					<div class="col-12 text-center">
-						<h3>Qualitative results for quality of local details on realworld scenes</h3>
+						<h2>Qualitative results for quality of local details on realworld scenes</h2>
       						<hr style="margin-top:0px">
 						<br>
 					</div>
@@ -219,7 +223,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12 text-center">
-						<h3>Qualitative results for quality of global completeness on real-world scenes</h3>
+						<h2>Qualitative results for quality of global completeness on real-world scenes</h2>
       						<hr style="margin-top:0px">
 						<br>
 					</div>
