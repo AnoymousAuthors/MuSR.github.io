@@ -84,85 +84,85 @@
 
 
 	<body>
+ 		<!-- Qualitative results for reconstruction efficiency on a real-world sceneg -->
+   		<br>
 		<section> 			
   			<div class="container"> 				
      				<div class="row"> 					
 	 				<div class="col-12 text-center"> 						
-      						<h3>Qualitative results for reconstruction efficiency on a real-world scene</h3>       											<hr style="margin-top:0px"> 						
+      						<h3>Scene 1</h3>       																	<hr style="margin-top:0px"> 						
 	    					<br> 					
 	  				</div> 				
        				</div> 				
 		   		<div class="row"> 					
-	      				<div class="col text-center"> 																			<img class="img-fluid" src="images/5-6/5-11_1.png" width="80%"> 					
+	      				<div class="col text-center"> 																	<img class="img-fluid" src="images/5-9/5-9_1.png" width="100%"> 					
 		  			</div> 					
-	      				<div class="col text-center"> 																			<img class="img-fluid" src="images/5-6/5-11_2.png" width="80%"> 												</div> 								
+	      				<div class="col text-center"> 																	<img class="img-fluid" src="images/5-9/5-9_2.png.png" width="100%"> 										</div> 								
 	       			</div>     				
 		  		<div class="row"> 					
 	     				<div class="col text-center"> 						
-		 				<p class="text-justify; text-center"> (a) GT / real scene </p> 					
+		 				<p class="text-justify; text-center"> (a) NeuralRecon </p> 					
 	     				</div> 					
-		 			<div class="col text-center">											 						<p class="text-justify; text-center"> (b) NeuralRecon </p>								 			</div>																		</div>	
+		 			<div class="col text-center">											 						<p class="text-justify; text-center"> (b) MuSR </p>								 				</div>																		</div>	
 
-      				<br>
-	  			<br>
-      				<div class="row">
-	  				<div class="col text-center"> 																	<img class="img-fluid" src="images/5-6/5-11_1.png" width="80%"> 					 		  			</div>
-       					<div class="col text-center"> 																	<img class="img-fluid" src="images/5-6/5-11_2.png" width="80%"> 										</div>							 								 	       		</div>  
-	    			<div class="row">
+	      			<br>
+		  		<br>
+	
+	    			 <div class="row"> 					 	 												<div class="col-12 text-center"> 						       										<h3>Scene 2</h3>       																	<hr style="margin-top:0px"> 						 	    									<br> 					 	  												</div> 				        													</div> 	
+	      			<div class="row">
+		  			<div class="col text-center"> 																	<img class="img-fluid" src="images/5-9/5-9_3.png" width="100%"> 					 		  			</div>
+	       				<div class="col text-center"> 																	<img class="img-fluid" src="images/5-9/5-9_4.png.png" width="100%"> 										</div>							 								 	       		</div>  
+		    		<div class="row">
 					<div class="col text-center">
-     						<p class="text-justify; text-center"> (a) GT / real scene </p> 					 	     					</div> 	 		 			
-	         			<div class="col text-center">											 						<p class="text-justify; text-center"> (b) NeuralRecon </p>								 			</div>																		</div>	
+	     					<p class="text-justify; text-center"> (a) NeuralRecon </p> 					 	     					</div> 	 		 			
+		         		<div class="col text-center">											 						<p class="text-justify; text-center"> (b) MuSR </p>								 				</div>																		</div>	
       			</div> 		
 		</section>   		
   		<br>
+
+    		<!-- GPU memory statistics -->    				
+      		<br>
 		<section>
-			<div class="container">
+  			<div class="container"> 
 				<div class="row">
-					<div class="col-12 text-center">
-						<h3>GPU memory statistics</h3>
+					<div class="col text-center">
+						<img class="img-fluid" src="images/GPU/5-8_1.png" width="100%">
+					</div>
+					<div class="col text-center">
+						<img class="img-fluid" src="images/GPU/5-8_2.png" width="100%">
 					</div>
 				</div>
 				<div class="row">
 					<div class="col text-center">
-						<img class="img-fluid" src="images/conference_room/conferenceRoom_target.jpg" width="100%">
+						<p class="text-justify; text-center"> Scene 1 </p>
 					</div>
 					<div class="col text-center">
-						<img class="img-fluid" src="images/conference_room/p1_offline.PNG" width="100%">
+						<p class="text-justify; text-center"> Scene 2 </p>
 					</div>
 				</div>
-				<div class="row">
-					<div class="col text-center">
-						<p class="text-justify; text-center"> Target Scene </p>
-					</div>
-					<div class="col text-center">
-						<p class="text-justify; text-center"> offline mesh by p1 </p>
-					</div>
-				</div>
-			</div>
+    			</div>
 		</section>
   		<br>
+
+        	<!-- Time statistics -->
+	 	<br>
 
       		<section>
 			<div class="container">
 				<div class="row">
-					<div class="col-12 text-center">
-						<h3>Time statistics</h3>
+					<div class="col text-center">
+						<img class="img-fluid" src="images/time/5-10_1.png" width="100%">
+					</div>
+					<div class="col text-center">
+						<img class="img-fluid" src="images/time/5-10_2.png" width="100%">
 					</div>
 				</div>
 				<div class="row">
 					<div class="col text-center">
-						<img class="img-fluid" src="images/conference_room/conferenceRoom_target.jpg" width="100%">
+						<p class="text-justify; text-center">Scene 1 </p>
 					</div>
 					<div class="col text-center">
-						<img class="img-fluid" src="images/conference_room/p1_offline.PNG" width="100%">
-					</div>
-				</div>
-				<div class="row">
-					<div class="col text-center">
-						<p class="text-justify; text-center"> Target Scene </p>
-					</div>
-					<div class="col text-center">
-						<p class="text-justify; text-center"> offline mesh by p1 </p>
+						<p class="text-justify; text-center">Scene 2</p>
 					</div>
 				</div>
 			</div>
