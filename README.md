@@ -88,7 +88,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12 text-center">
-						<h3>5</h3>
+						<h3>图 5-8: 测试集与真实多尺度场景中体现重建完整度的场景及其重建</h3>
 					</div>
 				</div>
 				<div class="row">
