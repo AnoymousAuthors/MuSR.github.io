@@ -84,27 +84,70 @@
 
 
 	<body>
+ 		<br>
 		<section>
 			<div class="container">
 				<div class="row">
 					<div class="col-12 text-center">
-						<h3>图 5-8: 测试集与真实多尺度场景中体现重建完整度的场景及其重建</h3>
+						<h3>Demo</h3>
+						<hr style="margin-top:0px">
+						<br>
+					</div>
+				</div>
+			</div> 
+		</section>
+  		<section>
+			<div class="container">
+				<div class="row">
+					<div class="col-12 text-center">
+						<h3>Figure 5-6</h3>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col text-center">
-						<img class="img-fluid" src="images/5-12/5-12_1.png" alt="(a)GT/real scene" width="100%">
+						<img class="img-fluid" src="images/5-6/5-11_1.png" width="100%">
 					</div>
 					<div class="col text-center">
-						<img class="img-fluid" src="images/5-12/5-12_2.png" alt="(b)NeuralRecon" width="100%">
+						<img class="img-fluid" src="images/5-6/5-11_2.png" width="100%">
 					</div>
 					<div class="col text-center">
-						<img class="img-fluid" src="images/5-12/5-12_3.png" alt="(c)Ours" width="100%">
+						<img class="img-fluid" src="images/5-6/5-11_3.png" width="100%">
 					</div>
 				</div>
     				<div class="row">
 					<div class="col text-center">
-						<p class="text-justify; text-center"> (a)GT / real scene </p>
+						<p class="text-justify; text-center"> (a) GT / real scene </p>
+					</div>
+					<div class="col text-center">
+						<p class="text-justify; text-center"> (b) NeuralRecon </p>
+					</div>
+					<div class="col text-center">
+						<p class="text-justify; text-center"> (c) Ours </p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section>
+			<div class="container">
+				<div class="row">
+					<div class="col-12 text-center">
+						<h3>Figure 5-8</h3>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-center">
+						<img class="img-fluid" src="images/5-12/5-12_1.png" width="100%">
+					</div>
+					<div class="col text-center">
+						<img class="img-fluid" src="images/5-12/5-12_2.png" width="100%">
+					</div>
+					<div class="col text-center">
+						<img class="img-fluid" src="images/5-12/5-12_3.png" width="100%">
+					</div>
+				</div>
+    				<div class="row">
+					<div class="col text-center">
+						<p class="text-justify; text-center"> (a) GT / real scene </p>
 					</div>
 					<div class="col text-center">
 						<p class="text-justify; text-center"> (b) NeuralRecon </p>
