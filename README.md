@@ -99,7 +99,7 @@
 						<img class="img-fluid" src="images/5-12/5-12_2.png" width="100%">
 					</div>
 					<div class="col text-center">
-						<img class="img-fluid" src="n/images/5-12/5-12_3.png" width="100%">
+						<img class="img-fluid" src="images/5-12/5-12_3.png" width="100%">
 					</div>
 				</div>
 			</div>
