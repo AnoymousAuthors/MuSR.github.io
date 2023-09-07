@@ -101,6 +101,8 @@
 				<div class="row">
 					<div class="col-12 text-center">
 						<h3>Figure 5-6</h3>
+      						<hr style="margin-top:0px">
+						<br>
 					</div>
 				</div>
 				<div class="row">
@@ -127,11 +129,14 @@
 				</div>
 			</div>
 		</section>
+  		<br>
 		<section>
 			<div class="container">
 				<div class="row">
 					<div class="col-12 text-center">
 						<h3>Figure 5-8</h3>
+      						<hr style="margin-top:0px">
+						<br>
 					</div>
 				</div>
 				<div class="row">
