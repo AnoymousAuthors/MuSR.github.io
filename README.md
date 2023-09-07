@@ -102,6 +102,17 @@
 						<img class="img-fluid" src="images/5-12/5-12_3.png" alt="(c)Ours" width="100%">
 					</div>
 				</div>
+    				<div class="row">
+					<div class="col text-center">
+						<p class="text-justify; text-center"> (a)GT / real scene </p>
+					</div>
+					<div class="col text-center">
+						<p class="text-justify; text-center"> (b) NeuralRecon </p>
+					</div>
+					<div class="col text-center">
+						<p class="text-justify; text-center"> (c) Ours </p>
+					</div>
+				</div>
 			</div>
 		</section>
 	</body>
