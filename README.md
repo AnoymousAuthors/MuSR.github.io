@@ -161,7 +161,7 @@
       		<section>
 			<div class="container">
    				<div class="row"> 	 			
-       					<div class="col-12 text-center"> 					       						   							<h2>GPU memory statistics</h2> 					   													<hr style="margin-top:0px"> 					 	    					   							<br> 	   																			</div>
+       					<div class="col-12 text-center"> 					       						   							<h2>Time statistics</h2> 					   													<hr style="margin-top:0px"> 					 	    					   							<br> 	   																			</div>
 	    			</div>
 				<div class="row">
 					<div class="col text-center">
