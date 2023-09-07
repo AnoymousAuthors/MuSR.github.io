@@ -90,35 +90,35 @@
   			<div class="container"> 
      				<div class="row"> 				
 	 				<div class="col-12 text-center"> 					
-      						<h3>Qualitative results for reconstruction efficiency on a real-world sceneg</h3> 									<hr style="margin-top:0px"> 					
-	    					<br> 																		</div> 																		</div>
+      						<h3>Qualitative results for reconstruction efficiency on a real-world scene</h3> 											<hr style="margin-top:0px"> 					
+	    					<br> 																				</div> 																				</div>
      				<div class="row"> 					
 	 				<div class="col-12 text-center"> 						
       						<h3>Scene 1</h3>       											
 	  				</div> 				
        				</div> 				
 		   		<div class="row"> 					
-	      				<div class="col text-center"> 																	<img class="img-fluid" src="images/5-9/5-9_1.png" width="100%"> 					
+	      				<div class="col text-center"> 																			<img class="img-fluid" src="images/5-9/5-9_1.png" width="100%"> 					
 		  			</div> 					
-	      				<div class="col text-center"> 																	<img class="img-fluid" src="images/5-9/5-9_2.png.png" width="100%"> 										</div> 								
+	      				<div class="col text-center"> 																			<img class="img-fluid" src="images/5-9/5-9_2.png.png" width="100%"> 												</div> 								
 	       			</div>     				
 		  		<div class="row"> 					
 	     				<div class="col text-center"> 						
 		 				<p class="text-justify; text-center"> (a) NeuralRecon </p> 					
 	     				</div> 					
-		 			<div class="col text-center">											 						<p class="text-justify; text-center"> (b) MuSR </p>								 				</div>																		</div>	
+		 			<div class="col text-center">											 								<p class="text-justify; text-center"> (b) MuSR </p>								 						</div>																				</div>	
 
 	      			<br>
 		  		<br>
 	
-	    			 <div class="row"> 					 	 												<div class="col-12 text-center"> 						       										<h3>Scene 2</h3> 					 	  										</div> 				        													</div> 	
+	    			 <div class="row"> 					 	 														<div class="col-12 text-center"> 						       												<h3>Scene 2</h3> 					 	  												</div> 				        															</div> 	
 	      			<div class="row">
-		  			<div class="col text-center"> 																	<img class="img-fluid" src="images/5-9/5-9_3.png" width="100%"> 					 		  			</div>
-	       				<div class="col text-center"> 																	<img class="img-fluid" src="images/5-9/5-9_4.png.png" width="100%"> 										</div>							 								 	       		</div>  
+		  			<div class="col text-center"> 																			<img class="img-fluid" src="images/5-9/5-9_3.png" width="100%"> 					 		  					</div>
+	       				<div class="col text-center"> 																			<img class="img-fluid" src="images/5-9/5-9_4.png.png" width="100%"> 												</div>							 								 	       				</div>  
 		    		<div class="row">
 					<div class="col text-center">
-	     					<p class="text-justify; text-center"> (a) NeuralRecon </p> 					 	     					</div> 	 		 			
-		         		<div class="col text-center">											 						<p class="text-justify; text-center"> (b) MuSR </p>								 				</div>																		</div>	
+	     					<p class="text-justify; text-center"> (a) NeuralRecon </p> 					 	     							</div> 	 		 			
+		         		<div class="col text-center">											 								<p class="text-justify; text-center"> (b) MuSR </p>								 						</div>																				</div>	
       			</div> 		
 		</section>   		
   		<br>
