@@ -84,26 +84,25 @@
 
 
 	<body>
-	<section>
-		<div class="container">
-			<div class="row">
-				<div class="col-12 text-center">
-					<h3>5</h3>
+		<section>
+			<div class="container">
+				<div class="row">
+					<div class="col-12 text-center">
+						<h3>5</h3>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-center">
+						<img class="img-fluid" src="images/5-12/5-12_1.png" width="100%">
+					</div>
+					<div class="col text-center">
+						<img class="img-fluid" src="images/5-12/5-12_2.png" width="100%">
+					</div>
+					<div class="col text-center">
+						<img class="img-fluid" src="n/images/5-12/5-12_3.png" width="100%">
+					</div>
 				</div>
 			</div>
-			<div class="row">
-				<div class="col text-center">
-					<img class="img-fluid" src="https://github.com/AnoymousAuthors/ICASSP_2023_MuSR.github.io/blob/main/images/5-12/5-12_1.png" width="100%">
-				</div>
-				<div class="col text-center">
-					<img class="img-fluid" src="https://github.com/AnoymousAuthors/ICASSP_2023_MuSR.github.io/blob/main/images/5-12/5-12_2.png" width="100%">
-				</div>
-				<div class="col text-center">
-					<img class="img-fluid" src="https://github.com/AnoymousAuthors/ICASSP_2023_MuSR.github.io/blob/main/images/5-12/5-12_3.png" width="100%">
-				</div>
-			</div>
-
-		</div>
-	<section>
+		<section>
 	</body>
 </html>
