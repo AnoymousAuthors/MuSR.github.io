@@ -89,20 +89,20 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12 text-center">
-						<h3>Figure 5-6</h3>
+						<h3>Qualitative results for quality of local details on realworld scenes</h3>
       						<hr style="margin-top:0px">
 						<br>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col text-center">
-						<img class="img-fluid" src="images/5-6/5-11_1.png" width="100%">
+						<img class="img-fluid" src="images/5-6/5-11_1.png" width="80%">
 					</div>
 					<div class="col text-center">
-						<img class="img-fluid" src="images/5-6/5-11_2.png" width="100%">
+						<img class="img-fluid" src="images/5-6/5-11_2.png" width="80%">
 					</div>
 					<div class="col text-center">
-						<img class="img-fluid" src="images/5-6/5-11_3.png" width="100%">
+						<img class="img-fluid" src="images/5-6/5-11_3.png" width="80%">
 					</div>
 				</div>
     				<div class="row">
@@ -123,7 +123,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12 text-center">
-						<h3>Figure 5-8</h3>
+						<h3>Qualitative results for quality of global completeness on real-world scenes</h3>
       						<hr style="margin-top:0px">
 						<br>
 					</div>
