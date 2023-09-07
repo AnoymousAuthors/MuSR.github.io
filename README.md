@@ -100,7 +100,7 @@
 		   		<div class="row"> 					
 	      				<div class="col text-center"> 																			<img class="img-fluid" src="images/5-9/5-9_1.png" width="100%"> 					
 		  			</div> 					
-	      				<div class="col text-center"> 																			<img class="img-fluid" src="images/5-9/5-9_2.png.png" width="100%"> 												</div> 								
+	      				<div class="col text-center"> 																			<img class="img-fluid" src="images/5-9/5-9_2.png" width="100%"> 												</div> 								
 	       			</div>     				
 		  		<div class="row"> 					
 	     				<div class="col text-center"> 						
