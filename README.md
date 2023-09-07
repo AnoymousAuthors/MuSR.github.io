@@ -84,7 +84,101 @@
 
 
 	<body>
+		<section> 			
+  			<div class="container"> 				
+     				<div class="row"> 					
+	 				<div class="col-12 text-center"> 						
+      						<h3>Qualitative results for reconstruction efficiency on a real-world scene</h3>       											<hr style="margin-top:0px"> 						
+	    					<br> 					
+	  				</div> 				
+       				</div> 				
+		   		<div class="row"> 					
+	      				<div class="col text-center"> 																			<img class="img-fluid" src="images/5-6/5-11_1.png" width="80%"> 					
+		  			</div> 					
+	      				<div class="col text-center"> 																			<img class="img-fluid" src="images/5-6/5-11_2.png" width="80%"> 												</div> 								
+	       			</div>     				
+		  		<div class="row"> 					
+	     				<div class="col text-center"> 						
+		 				<p class="text-justify; text-center"> (a) GT / real scene </p> 					
+	     				</div> 					
+		 			<div class="col text-center">											 								<p class="text-justify; text-center"> (b) NeuralRecon </p>								 					</div>																				</div>												 			
+      			</div> 		
+		</section>   		
+  		<br>
+		<section>
+			<div class="container">
+				<div class="row">
+					<div class="col-12 text-center">
+						<h3>GPU memory statistics</h3>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-center">
+						<img class="img-fluid" src="images/conference_room/conferenceRoom_target.jpg" width="100%">
+					</div>
+					<div class="col text-center">
+						<img class="img-fluid" src="images/conference_room/p1_offline.PNG" width="100%">
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-center">
+						<p class="text-justify; text-center"> Target Scene </p>
+					</div>
+					<div class="col text-center">
+						<p class="text-justify; text-center"> offline mesh by p1 </p>
+					</div>
+				</div>
+			</div>
+		</section>
+  		<br>
 
+      		<section>
+			<div class="container">
+				<div class="row">
+					<div class="col-12 text-center">
+						<h3>Time statistics</h3>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-center">
+						<img class="img-fluid" src="images/conference_room/conferenceRoom_target.jpg" width="100%">
+					</div>
+					<div class="col text-center">
+						<img class="img-fluid" src="images/conference_room/p1_offline.PNG" width="100%">
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-center">
+						<p class="text-justify; text-center"> Target Scene </p>
+					</div>
+					<div class="col text-center">
+						<p class="text-justify; text-center"> offline mesh by p1 </p>
+					</div>
+				</div>
+	
+				<br> 		
+	   			<br> 
+	
+				<div class="row">
+					<div class="col text-center">
+						<img class="img-fluid" src="images/conference_room/expert.PNG" width="100%">
+					</div>
+					<div class="col text-center">
+						<img class="img-fluid" src="images/conference_room/p1_YOSO.PNG" width="100%">
+					</div>
+				</div>
+				<div class="row">
+					<div class="col text-center">
+						<p class="text-justify; text-center"> GT mesh by expert </p>
+					</div>
+					<div class="col text-center">
+						<p class="text-justify; text-center"> our cube-mesh by p1 </p>
+					</div>
+				</div>
+	
+			</div>
+		</section>
+    
   		<section>
 			<div class="container">
 				<div class="row">
