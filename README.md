@@ -84,13 +84,13 @@
 
 
 	<body>
- 		<!-- Qualitative results for reconstruction efficiency on a real-world scene -->
+ 		<!-- Qualitative results for reconstruction efficiency on real-world scenes -->
    		<br>
 		<section> 			
   			<div class="container"> 
      				<div class="row"> 				
 	 				<div class="col-12 text-center"> 					
-      						<h2>Qualitative results for reconstruction efficiency on a real-world scene</h2> 											<hr style="margin-top:0px"> 					
+      						<h2>Qualitative results for reconstruction efficiency on real-world scenes</h2> 											<hr style="margin-top:0px"> 					
 	    					<br> 																				</div> 																				</div>
      				<div class="row"> 					
 	 				<div class="col-12 text-center"> 						
