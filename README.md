@@ -189,7 +189,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12 text-center">
-						<h2>Qualitative results for quality of local details on realworld scenes</h2>
+						<h2>Qualitative results for quality of local details</h2>
       						<hr style="margin-top:0px">
 						<br>
 					</div>
@@ -223,7 +223,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12 text-center">
-						<h2>Qualitative results for quality of global completeness on real-world scenes</h2>
+						<h2>Qualitative results for quality of global completeness</h2>
       						<hr style="margin-top:0px">
 						<br>
 					</div>
