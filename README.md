@@ -213,7 +213,7 @@
 						<p class="text-justify; text-center"> (b) NeuralRecon </p>
 					</div>
 					<div class="col text-center">
-						<p class="text-justify; text-center"> (c) Ours </p>
+						<p class="text-justify; text-center"> (c) MuSR </p>
 					</div>
 				</div>
 			</div>
@@ -247,7 +247,7 @@
 						<p class="text-justify; text-center"> (b) NeuralRecon </p>
 					</div>
 					<div class="col text-center">
-						<p class="text-justify; text-center"> (c) Ours </p>
+						<p class="text-justify; text-center"> (c) MuSR </p>
 					</div>
 				</div>
 			</div>
